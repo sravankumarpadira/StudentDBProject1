@@ -1,0 +1,14 @@
+#h11{
+            color:blue;
+        }
+        #h22{
+            color:green;
+        }
+        #img1{
+            width:500px;
+            height:480px;
+            border: 10px groove red;
+        }
+         body{
+             background-image: url("{% static 'images/bgimage.jpg' %}");
+         }
